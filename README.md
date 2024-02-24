@@ -2,6 +2,11 @@
 
 This repository contains files for Mohammed's Wild Haven website, a fictional zoo explorer website showcasing various animals.
 
+[Live Demo](https://mohammeddigitalsage.github.io/Assignment-1-Zoo/index.html)
+
+**Team Member**: Mohammed (solo, because I’m Batman…just kidding) <br>
+**Username**: [MohammedDigitalSage](https://github.com/MohammedDigitalSage)
+
 ## Files Included
 
 1. **index.html**: The homepage of Mohammed's Wild Haven website.
